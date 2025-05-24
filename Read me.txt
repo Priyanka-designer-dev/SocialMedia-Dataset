@@ -1,0 +1,34 @@
+Read me
+
+# 📊 Social Media Analytics Dashboard (Power BI)
+
+## 📌 Overview
+This project analyzes social media performance using a Power BI dashboard. It provides insights on engagement, reach, and platform comparisons using data on posts and followers.
+
+## 📁 Files
+- `SocialMedia_Analytics_Dashboard.pbix`: Power BI report
+- `data/SocialMedia_Analytics_Combined.csv`: Source data
+- `case_study.pdf`: Project documentation (optional)
+
+## 📈 Dashboard Features
+- KPI Cards: Likes, Shares, Comments, Followers, Engagement Rate
+- Line Chart: Engagement trend over time
+- Bar Chart: Platform-wise engagement
+- Pie Chart: Platform-wise impressions
+- Slicers: Filter by Date, Platform, Hashtags
+
+## 📊 Tools Used
+- Power BI
+- DAX for calculated measures
+- CSV data preprocessing in Excel
+
+## 🧠 Insights
+- Instagram had the highest engagement rate
+- Facebook impressions were consistent but engagement dipped
+- Hashtag usage influenced reach
+
+## 📷 Preview
+![Dashboard Screenshot](images/dashboard_screenshot.png)
+
+## 📝 License
+
